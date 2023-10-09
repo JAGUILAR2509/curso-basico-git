@@ -13,7 +13,7 @@
             <div class="text-white">
                 <h1>Datos Clientes</h1>
                 <p>
-                   esta es una prueba.
+                    Formulario para registrar los clientes.
                 </p>
             </div>
         </section>
@@ -21,11 +21,11 @@
             <div class="wrapper">
                 <div class="col-3">
                     <div class="form">
-                        <label>Compañia</label>
+                        <label>Empresa</label>
                         <input type="text" class="input-form" placeholder="Escriba nombre empresa">
                     </div>
                     <div class="form">
-                        <label>EmailCorporativo</label>
+                        <label>CorreoEmpresa</label>
                         <input type="text" class="input-form" placeholder="Escriba su correo">
                     </div>
                     <div class="form">
